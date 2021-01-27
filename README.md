@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='left'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaRovani&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
 
 <!--
 **KarinaRovani/KarinaRovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
